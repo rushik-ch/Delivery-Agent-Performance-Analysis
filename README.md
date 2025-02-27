@@ -4,7 +4,7 @@
 This project is a **Power BI Dashboard** analyzing **delivery agent performance** based on customer feedback, order trends, and delivery efficiency. The dashboard provides key insights into **customer satisfaction, agent performance, and delivery times**.
 
 ## 📸 Dashboard Screenshot  
-Dashboard(![dashboard (2)](https://github.com/user-attachments/assets/f8a96828-a42d-403f-85b2-3c87a8ebbeb4)
+Dashboard![dashboard (2)](https://github.com/user-attachments/assets/f8a96828-a42d-403f-85b2-3c87a8ebbeb4)
   
 
 ---
