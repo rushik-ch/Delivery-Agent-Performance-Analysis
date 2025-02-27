@@ -92,6 +92,15 @@ DIVIDE(
 
 ```
 
+## 📌 **Dashboard Features**
+- **KPIs:** Positive & Negative Feedback Rate, Average Rating, Fastest & Slowest Delivery Time. 
+- **Negative Feedback Rate:** **34.5%**  
+- **Average Rating:** **3.00**  
+- **Fastest Delivery Time:** **10 min**  
+- **Slowest Delivery Time:** **60 min**  
+- **Orders Distribution:** Categorized into **Electronics, Food, Essentials, Grocery, Pharmacy**  
+- **Delivery Time vs. Rating:** Faster deliveries tend to have **higher customer ratings**. 
+
 
 
 
